@@ -1,0 +1,1 @@
+/opt/vm_repository *(rw,no_root_squash,subtree_check,insecure)
